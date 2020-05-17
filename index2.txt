@@ -1,0 +1,6 @@
+-open source introduction 
+-look at one or two open source projects just to see what's going on 
+- take a step back and do python bootcamp project  
+- presention and paper by wednesday 
+- big big code project by yourself. Get some leetcode done as well 
+- *contribute to open souce in significant way
