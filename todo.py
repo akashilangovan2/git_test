@@ -16,6 +16,8 @@ def printlist():
     listlen = len(todo)
     for x in range(listlen):
         print("-"+todo[x])
+def createlist():
+    newlist = []
 
 completeitem()
 printlist()
